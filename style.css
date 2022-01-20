@@ -1,0 +1,111 @@
+
+
+.fullname,.age, .jobtitle, .location{
+   width: 250px;
+   text-align: left;
+   height: 38px;
+   color: white;
+   background-color: #6d7ae0; 
+   
+    
+}
+
+
+
+body{
+    border: 1px solid #a9a9b5;
+    border-radius: 20px;
+    background-color: #c5d3f6;
+    color: #a9a9b5;
+    
+}
+
+body{
+    margin-right: 670px;
+}
+.thefirst{
+    border-bottom: solid 1px #a9a9b5;
+    background-color: #fafafa;
+}
+.sec{
+    border-bottom: solid 1px ;
+    background-color: #fafafa;
+}
+
+.tre{
+    border-bottom: solid 1px #a9a9b5;
+    background-color: #fafafa;
+}
+
+.kater{
+    border-bottom: solid 1px #a9a9b5;
+    background-color: #fafafa;
+}
+    
+
+.pese{
+    border-bottom: solid 1px #a9a9b5;
+    background-color: #fafafa;
+}
+
+.gjashte{
+    border-bottom: solid 1px #a9a9b5;
+    background-color: #fafafa;
+}
+.shtate {
+    border-bottom: solid 1px #a9a9b5;
+    background-color: #fafafa;
+}
+
+.tete{
+    border-bottom: solid 1px #a9a9b5;
+    background-color: #fafafa;
+}
+
+
+.nente{
+    border-bottom: solid 1px #a9a9b5;
+    background-color: #fafafa;
+}
+
+
+.ten{
+    border-bottom: solid 1px #a9a9b5;
+    background-color: #fafafa;
+}
+
+.eleven{
+    border-bottom: solid 1px #a9a9b5;
+    background-color: #fafafa;
+
+}
+
+.twelve{
+    border-bottom: solid 1px #a9a9b5;
+    background-color: #fafafa;
+
+
+}
+.thirteen{
+    border-bottom: solid 1px #a9a9b5;
+    background-color: #fafafa;
+
+
+}
+.fourteen{
+    border-bottom: solid 1px #a9a9b5;
+    background-color: #fafafa;
+
+
+}
+.fifteen{
+    border-bottom: solid 1px #a9a9b5;
+    background-color: #fafafa;
+
+
+}
+.sixteen{
+    background-color: #fafafa;
+
+}
+
